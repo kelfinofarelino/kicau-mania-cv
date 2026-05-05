@@ -1,7 +1,7 @@
 # 🦅 Kicau Mania Computer Vision
 
 <div align="center">
-  <video src="https://github.com/kelfinofarelino/kicau-mania-cv/assets/DEMO.mp4" width="100%" controls>
+  <video src="https://github.com/kelfinofarelino/kicau-mania-cv/blob/main/assets/DEMO.mp4" width="100%" controls>
     Your browser does not support the video tag.
   </video>
   <p><i>Demo interaksi deteksi gestur "Kicau Mania" secara real-time.</i></p>
