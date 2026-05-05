@@ -1,6 +1,10 @@
 # 🦅 Kicau Mania Computer Vision
 
-![Kicau Mania Demo](https://github.com/kelfinofarelino/kicau-mania-cv/blob/main/assets/DEMO.mp4)
+
+
+https://github.com/user-attachments/assets/44e9109c-a6fa-4fbb-9bad-8afbcf317a1f
+
+
 
 An interactive Computer Vision project using Python, OpenCV, and MediaPipe to detect specific hand gestures and trigger a Picture-in-Picture (PiP) video response in real-time. 
 
